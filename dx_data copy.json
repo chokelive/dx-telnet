@@ -1,0 +1,886 @@
+{
+    "spots": [
+        {
+            "spotter": "EA1BUL",
+            "spotted": "VE9GLF",
+            "frequency": 14335,
+            "message": "VEFF2275 W/VE9MY TNX",
+            "when": "2022-07-07T17:46:10.054Z"
+        },
+        {
+            "spotter": "PP5RP",
+            "spotted": "PP5RT",
+            "frequency": 28539,
+            "message": "CW",
+            "when": "2022-07-07T17:46:16.396Z"
+        },
+        {
+            "spotter": "EA1YV",
+            "spotted": "7Q5RU",
+            "frequency": 28074.3,
+            "message": "IN52<>KH67 FT8",
+            "when": "2022-07-07T17:46:24.716Z"
+        },
+        {
+            "spotter": "EA5GH",
+            "spotted": "ON2PAT",
+            "frequency": 18100,
+            "message": "FT8 +04dB from JO21 2193Hz",
+            "when": "2022-07-07T17:46:32.700Z"
+        },
+        {
+            "spotter": "RX6LG",
+            "spotted": "R0WA",
+            "frequency": 7022,
+            "message": "/P       tnx QSO",
+            "when": "2022-07-07T17:46:41.789Z"
+        },
+        {
+            "spotter": "DL1HWS",
+            "spotted": "DK2AI",
+            "frequency": 14049,
+            "message": "/M   vy tny gl",
+            "when": "2022-07-07T17:46:54.223Z"
+        },
+        {
+            "spotter": "LW1DZ",
+            "spotted": "DO8OH",
+            "frequency": 28074,
+            "message": "FT8 -18dB from JO31 2581Hz",
+            "when": "2022-07-07T18:03:12.761Z"
+        },
+        {
+            "spotter": "IZ1GCW",
+            "spotted": "K2K",
+            "frequency": 21028.8,
+            "message": "TNX 73 !",
+            "when": "2022-07-07T18:03:15.063Z"
+        },
+        {
+            "spotter": "LU4DRH",
+            "spotted": "I0XNH",
+            "frequency": 21075.7,
+            "message": "FT8 Send -19 Rcvd -19 TKS",
+            "when": "2022-07-07T18:03:37.970Z"
+        },
+        {
+            "spotter": "IU5HWS",
+            "spotted": "II5WRTC",
+            "frequency": 21250,
+            "message": "cq contest",
+            "when": "2022-07-09T16:15:00.755Z"
+        },
+        {
+            "spotter": "VE2KHC",
+            "spotted": "W1AW",
+            "frequency": 28406.9,
+            "message": "/3       ARRL HQ IARU HF Contest",
+            "when": "2022-07-09T16:15:03.177Z"
+        },
+        {
+            "spotter": "YT1HA",
+            "spotted": "C4HQ",
+            "frequency": 14047.8,
+            "message": "",
+            "when": "2022-07-09T16:15:10.550Z"
+        },
+        {
+            "spotter": "DM7EE",
+            "spotted": "RA3OA",
+            "frequency": 28462.5,
+            "message": "",
+            "when": "2022-07-09T16:15:11.514Z"
+        },
+        {
+            "spotter": "PE1EWR",
+            "spotted": "HG6N",
+            "frequency": 21225.2,
+            "message": "IARU HF test USB",
+            "when": "2022-07-09T16:15:12.592Z"
+        },
+        {
+            "spotter": "RA3AAA",
+            "spotted": "YO4FPF",
+            "frequency": 14011.3,
+            "message": "CW IARU HF Championship",
+            "when": "2022-07-09T16:15:14.542Z"
+        },
+        {
+            "spotter": "9A2SB",
+            "spotted": "OH5RBG",
+            "frequency": 7033,
+            "message": "/B     KP30HW 599 inJN95GM",
+            "when": "2022-07-09T16:15:16.079Z"
+        },
+        {
+            "spotter": "KD5YS",
+            "spotted": "K9MWM",
+            "frequency": 14257,
+            "message": "IARU HF Contest",
+            "when": "2022-07-09T16:15:17.104Z"
+        },
+        {
+            "spotter": "CX2SA",
+            "spotted": "KP4CG",
+            "frequency": 21074,
+            "message": "FT8 710 Hz - TU QSO 73",
+            "when": "2022-07-09T16:15:19.765Z"
+        },
+        {
+            "spotter": "IZ5DKG",
+            "spotted": "IO9HQ",
+            "frequency": 28437,
+            "message": "iaru",
+            "when": "2022-07-09T16:16:09.430Z"
+        },
+        {
+            "spotter": "AA8R",
+            "spotted": "PY2FRQ",
+            "frequency": 28003.1,
+            "message": "",
+            "when": "2022-07-09T16:16:11.887Z"
+        },
+        {
+            "spotter": "VE7DX",
+            "spotted": "W1MI",
+            "frequency": 50313,
+            "message": "CN79MP<ES>FN32 thanks",
+            "when": "2022-07-09T16:16:13.014Z"
+        },
+        {
+            "spotter": "IZ5DKG",
+            "spotted": "II5WRTC",
+            "frequency": 28393,
+            "message": "cq test",
+            "when": "2022-07-09T16:16:35.441Z"
+        },
+        {
+            "spotter": "UA9R",
+            "spotted": "LZ0HQ",
+            "frequency": 28401.2,
+            "message": "IARU-HF",
+            "when": "2022-07-09T16:16:36.054Z"
+        },
+        {
+            "spotter": "YC1JEL",
+            "spotted": "YH8TAA",
+            "frequency": 21074,
+            "message": "FT8 -14dB from PJ10 1144Hz",
+            "when": "2022-07-09T16:16:37.524Z"
+        },
+        {
+            "spotter": "PT4T",
+            "spotted": "PC3T",
+            "frequency": 28041,
+            "message": "CW IARU HF Championship",
+            "when": "2022-07-09T16:18:45.388Z"
+        },
+        {
+            "spotter": "CE2GT",
+            "spotted": "ZY8A",
+            "frequency": 28435,
+            "message": "USB",
+            "when": "2022-07-09T16:18:47.845Z"
+        },
+        {
+            "spotter": "GW7SMV",
+            "spotted": "UN2E",
+            "frequency": 50313,
+            "message": "IO81<ES>MO52 FT8 tks qso",
+            "when": "2022-07-09T16:18:48.681Z"
+        },
+        {
+            "spotter": "PE1EWR",
+            "spotted": "FR4KR",
+            "frequency": 21224,
+            "message": "IARU HF test USB",
+            "when": "2022-07-09T16:18:49.074Z"
+        },
+        {
+            "spotter": "UC5D",
+            "spotted": "UP7L",
+            "frequency": 14041.3,
+            "message": "CW IARU HF Championship",
+            "when": "2022-07-10T07:03:17.126Z"
+        },
+        {
+            "spotter": "DJ5AN",
+            "spotted": "N7DX",
+            "frequency": 14235.8,
+            "message": "",
+            "when": "2022-07-10T07:03:17.489Z"
+        },
+        {
+            "spotter": "EB5JBO",
+            "spotted": "EA6KB",
+            "frequency": 7140,
+            "message": "VGIB-017 POTA EA-1948 DME-0700",
+            "when": "2022-07-10T07:03:18.940Z"
+        },
+        {
+            "spotter": "R2HM",
+            "spotted": "R2HM",
+            "frequency": 28068,
+            "message": "/M:    28068.0  R2HM/M       RDA MO-85 TV-26 TNXQSO.com",
+            "when": "2022-07-10T07:03:20.794Z"
+        },
+        {
+            "spotter": "AB1JV",
+            "spotted": "IO3M",
+            "frequency": 14161.9,
+            "message": "IARU HF Contest",
+            "when": "2022-07-10T07:03:22.399Z"
+        },
+        {
+            "spotter": "DJ3EI",
+            "spotted": "TM0HQ",
+            "frequency": 14005.9,
+            "message": "iaru hf ref",
+            "when": "2022-07-10T07:03:23.476Z"
+        },
+        {
+            "spotter": "DJ5AN",
+            "spotted": "IO6HQ",
+            "frequency": 14242,
+            "message": "ARI",
+            "when": "2022-07-10T07:03:45.039Z"
+        },
+        {
+            "spotter": "IK2IKW",
+            "spotted": "ED3C",
+            "frequency": 21266.7,
+            "message": "IARU",
+            "when": "2022-07-10T07:03:47.534Z"
+        },
+        {
+            "spotter": "PG7M",
+            "spotted": "IK8UND",
+            "frequency": 21333,
+            "message": "IARU",
+            "when": "2022-07-10T07:04:24.969Z"
+        },
+        {
+            "spotter": "PC2K",
+            "spotted": "TM0HQ",
+            "frequency": 21297.9,
+            "message": "USB",
+            "when": "2022-07-10T07:04:26.756Z"
+        },
+        {
+            "spotter": "SV2HJW",
+            "spotted": "R120ZF",
+            "frequency": 14080,
+            "message": "FT4 -08dB 2180Hz",
+            "when": "2022-07-10T07:04:28.755Z"
+        },
+        {
+            "spotter": "RM3DA",
+            "spotted": "ER3CT",
+            "frequency": 21248.1,
+            "message": "USB",
+            "when": "2022-07-10T07:04:30.091Z"
+        },
+        {
+            "spotter": "UC5D",
+            "spotted": "OY1CT",
+            "frequency": 14042.9,
+            "message": "CW IARU HF Championship",
+            "when": "2022-07-10T07:04:32.579Z"
+        },
+        {
+            "spotter": "F4HHL",
+            "spotted": "K3ZO",
+            "frequency": 14257.6,
+            "message": "",
+            "when": "2022-07-10T07:04:32.913Z"
+        },
+        {
+            "spotter": "DJ5AN",
+            "spotted": "K3ZO",
+            "frequency": 14257.6,
+            "message": "Fred TU",
+            "when": "2022-07-10T07:04:33.411Z"
+        },
+        {
+            "spotter": "EI6KW",
+            "spotted": "K1ZZ",
+            "frequency": 14042.3,
+            "message": "",
+            "when": "2022-07-10T07:04:35.533Z"
+        },
+        {
+            "spotter": "AB1JV",
+            "spotted": "EA3HJO",
+            "frequency": 14198.1,
+            "message": "IARU HF Contest",
+            "when": "2022-07-10T07:04:37.443Z"
+        },
+        {
+            "spotter": "W8BI",
+            "spotted": "KU8E",
+            "frequency": 7031.3,
+            "message": "CW",
+            "when": "2022-07-10T07:04:45.763Z"
+        },
+        {
+            "spotter": "HA6KG",
+            "spotted": "4X1DX",
+            "frequency": 21277.9,
+            "message": "",
+            "when": "2022-07-10T07:04:48.893Z"
+        },
+        {
+            "spotter": "DO4BMW",
+            "spotted": "IK0PHY",
+            "frequency": 28491.8,
+            "message": "USB",
+            "when": "2022-07-10T07:04:57.531Z"
+        },
+        {
+            "spotter": "DG3IAM",
+            "spotted": "W1AW",
+            "frequency": 14178.4,
+            "message": "/3       USB JN48cu -> FN31pr",
+            "when": "2022-07-10T07:05:02.700Z"
+        },
+        {
+            "spotter": "AC2PB",
+            "spotted": "K9KU",
+            "frequency": 50313,
+            "message": "FT8",
+            "when": "2022-07-11T14:20:04.217Z"
+        },
+        {
+            "spotter": "G3SVK",
+            "spotted": "MX0SNB",
+            "frequency": 14023,
+            "message": "Secret Nuclear Bunker, London",
+            "when": "2022-07-11T14:21:20.088Z"
+        },
+        {
+            "spotter": "G1EZF",
+            "spotted": "HA1VHF",
+            "frequency": 70211,
+            "message": "IO93FT<ES>JN87GF tnx",
+            "when": "2022-07-11T14:57:04.882Z"
+        },
+        {
+            "spotter": "CT1EEC",
+            "spotted": "CS2Q",
+            "frequency": 7065,
+            "message": "CONCENTRACION DE MOTOS DE FARO",
+            "when": "2022-07-11T14:57:05.184Z"
+        },
+        {
+            "spotter": "S52RA",
+            "spotted": "OH1MM",
+            "frequency": 7024,
+            "message": "/P      ohff-0003",
+            "when": "2022-07-11T14:57:07.637Z"
+        },
+        {
+            "spotter": "F4IRX",
+            "spotted": "YO9NC",
+            "frequency": 14074,
+            "message": "FT8 -18dB from KN34 1721Hz",
+            "when": "2022-07-11T14:57:14.570Z"
+        },
+        {
+            "spotter": "F4IRX",
+            "spotted": "G6PWS",
+            "frequency": 14074,
+            "message": "FT8 -15dB 890Hz",
+            "when": "2022-07-11T14:57:21.024Z"
+        },
+        {
+            "spotter": "EA1YV",
+            "spotted": "K9RX",
+            "frequency": 50325.7,
+            "message": "IN52<>EM84 FT8",
+            "when": "2022-07-11T14:57:33.894Z"
+        },
+        {
+            "spotter": "G4TGE",
+            "spotted": "OK2EI",
+            "frequency": 50087.4,
+            "message": "Tks QSO weak but OK",
+            "when": "2022-07-11T14:57:35.423Z"
+        },
+        {
+            "spotter": "IZ1XEE",
+            "spotted": "YB0AZ",
+            "frequency": 21260,
+            "message": "59+10 in nord west Italy",
+            "when": "2022-07-11T14:57:48.791Z"
+        },
+        {
+            "spotter": "HA9AL",
+            "spotted": "IK3VZO",
+            "frequency": 44174,
+            "message": "TNX FT8 QSO OP ATTILA 73",
+            "when": "2022-07-11T15:41:16.946Z"
+        },
+        {
+            "spotter": "DJ9YE",
+            "spotted": "YO8BZO",
+            "frequency": 50313,
+            "message": "JO43<ES>KN37 FT8 mni tnx QSO",
+            "when": "2022-07-11T15:41:21.440Z"
+        },
+        {
+            "spotter": "OK3DM",
+            "spotted": "GM0VMV",
+            "frequency": 14013.1,
+            "message": "",
+            "when": "2022-07-11T15:42:32.916Z"
+        },
+        {
+            "spotter": "EA5D",
+            "spotted": "YH1AB",
+            "frequency": 14075,
+            "message": "FT8 -11 JN00BB<>OI33",
+            "when": "2022-07-11T15:42:37.761Z"
+        },
+        {
+            "spotter": "W7GJ",
+            "spotted": "WA4IAM",
+            "frequency": 50313,
+            "message": "FM06>DN27",
+            "when": "2022-07-11T15:42:40.062Z"
+        },
+        {
+            "spotter": "DJ9YE",
+            "spotted": "SP9DWT",
+            "frequency": 50313,
+            "message": "JO43<ES>JN99 FT8 mni tnx QSO",
+            "when": "2022-07-11T15:44:53.180Z"
+        },
+        {
+            "spotter": "F4CXO",
+            "spotted": "OH0SIX",
+            "frequency": 50017.6,
+            "message": "/B     JN26PP<ES>JP90XI",
+            "when": "2022-07-11T15:44:54.528Z"
+        },
+        {
+            "spotter": "EA5D",
+            "spotted": "YH7UI",
+            "frequency": 14075,
+            "message": "FT8 -15 JN00BB<>OI88",
+            "when": "2022-07-11T15:44:59.761Z"
+        },
+        {
+            "spotter": "IW1PZC",
+            "spotted": "SM4POB",
+            "frequency": 50172,
+            "message": "Tnx 59 jp70wb   jn44ff",
+            "when": "2022-07-11T15:45:13.796Z"
+        },
+        {
+            "spotter": "GM4ILS",
+            "spotted": "OE3XAC",
+            "frequency": 50066,
+            "message": "/B     IO87IP(TR)JN78SB 559",
+            "when": "2022-07-11T15:45:22.251Z"
+        },
+        {
+            "spotter": "OK3DM",
+            "spotted": "YH4FR",
+            "frequency": 14016.1,
+            "message": "",
+            "when": "2022-07-11T15:45:28.499Z"
+        },
+        {
+            "spotter": "K5TER",
+            "spotted": "KJ8MRH",
+            "frequency": 14251,
+            "message": "K-1940�Caesar Creek State Park",
+            "when": "2022-07-11T15:45:28.948Z"
+        },
+        {
+            "spotter": "F4CXO",
+            "spotted": "OZ6VHF",
+            "frequency": 50053.7,
+            "message": "/B     JN26PP<ES>JO57EI",
+            "when": "2022-07-11T15:45:35.305Z"
+        },
+        {
+            "spotter": "UA3AAJ",
+            "spotted": "DK2AI",
+            "frequency": 14049.3,
+            "message": "/M   RDA NS-13 up",
+            "when": "2022-07-11T15:45:37.466Z"
+        },
+        {
+            "spotter": "K5TER",
+            "spotted": "N4VGE",
+            "frequency": 14192,
+            "message": "K-2037�Clark Reservation State",
+            "when": "2022-07-11T15:49:51.821Z"
+        },
+        {
+            "spotter": "4Z5CP",
+            "spotted": "EW8KO",
+            "frequency": 89540,
+            "message": "KM72MT<SAT>KO42UO FT8",
+            "when": "2022-07-11T15:49:54.069Z"
+        },
+        {
+            "spotter": "IK2MMM",
+            "spotted": "IU1HGO",
+            "frequency": 7088,
+            "message": "zodiaco",
+            "when": "2022-07-11T15:50:35.747Z"
+        },
+        {
+            "spotter": "EA3CRD",
+            "spotted": "EA4AKF",
+            "frequency": 7100,
+            "message": "Hogueras San Vicente",
+            "when": "2022-07-11T15:50:46.903Z"
+        },
+        {
+            "spotter": "HA7AJ",
+            "spotted": "M0AIA",
+            "frequency": 50097.1,
+            "message": "JN97RI-IO93DP",
+            "when": "2022-07-11T15:50:47.211Z"
+        },
+        {
+            "spotter": "G0API",
+            "spotted": "SR8FHB",
+            "frequency": 50028.5,
+            "message": "/B     IO80XS(ES)JO91CQ 559",
+            "when": "2022-07-11T15:50:48.972Z"
+        },
+        {
+            "spotter": "EA5D",
+            "spotted": "YH0R",
+            "frequency": 14075,
+            "message": "FT8 -12 JN00BB<>OI33",
+            "when": "2022-07-11T15:51:57.393Z"
+        },
+        {
+            "spotter": "G4WFQ",
+            "spotted": "WS9V",
+            "frequency": 50323,
+            "message": "FT8",
+            "when": "2022-07-11T15:51:58.486Z"
+        },
+        {
+            "spotter": "UF4S",
+            "spotted": "UF4S",
+            "frequency": 7085,
+            "message": ":       7085.0  UF4S/P       LSB",
+            "when": "2022-07-11T15:52:50.314Z"
+        },
+        {
+            "spotter": "KE8CTC",
+            "spotted": "N4VGE",
+            "frequency": 14192,
+            "message": "",
+            "when": "2022-07-11T15:52:50.840Z"
+        },
+        {
+            "spotter": "GM4ILS",
+            "spotted": "F5ZKY",
+            "frequency": 50432.1,
+            "message": "/B      IO87IP(ES)IN96LV 559",
+            "when": "2022-07-11T15:52:58.309Z"
+        },
+        {
+            "spotter": "LW2EDM",
+            "spotted": "PU2JMR",
+            "frequency": 21074.5,
+            "message": "FT8 Sent -20 Rcvd -12",
+            "when": "2022-07-11T15:53:22.163Z"
+        },
+        {
+            "spotter": "EB1DFL",
+            "spotted": "EA1IQM",
+            "frequency": 7017,
+            "message": "CW ultimas llamadas",
+            "when": "2022-07-11T15:53:24.895Z"
+        },
+        {
+            "spotter": "9A2KI",
+            "spotted": "LA0GE",
+            "frequency": 50092,
+            "message": "JN95BF<ES>JO59KF CW strong",
+            "when": "2022-07-11T15:59:10.948Z"
+        },
+        {
+            "spotter": "W4AG",
+            "spotted": "VU2GSM",
+            "frequency": 7004,
+            "message": "Kanti",
+            "when": "2022-07-13T00:49:12.544Z"
+        },
+        {
+            "spotter": "LU4DRH",
+            "spotted": "K8NY",
+            "frequency": 14075.8,
+            "message": "FT8 Send -06 Rcvd -14 TKS",
+            "when": "2022-07-13T00:49:44.407Z"
+        },
+        {
+            "spotter": "VA3EBM",
+            "spotted": "WI0O",
+            "frequency": 14340,
+            "message": "FN03EK<>EN35CA SSB",
+            "when": "2022-07-13T00:50:27.653Z"
+        },
+        {
+            "spotter": "ZL2CC",
+            "spotted": "KG4JPL",
+            "frequency": 18100,
+            "message": "FT8 -02dB from EL88 2495Hz",
+            "when": "2022-07-13T00:50:45.923Z"
+        },
+        {
+            "spotter": "LU4DRH",
+            "spotted": "W7OM",
+            "frequency": 14075.8,
+            "message": "FT8 Send -18 Rcvd -13 TKS",
+            "when": "2022-07-13T00:55:25.327Z"
+        },
+        {
+            "spotter": "N8BEG",
+            "spotted": "W4GCB",
+            "frequency": 50125,
+            "message": "EN75<>EM73LA",
+            "when": "2022-07-13T00:56:01.541Z"
+        },
+        {
+            "spotter": "W3UCA",
+            "spotted": "TA1BM",
+            "frequency": 5359.5,
+            "message": "",
+            "when": "2022-07-13T00:56:06.223Z"
+        },
+        {
+            "spotter": "K4RW",
+            "spotted": "VE3DZ",
+            "frequency": 50313.9,
+            "message": "",
+            "when": "2022-07-13T00:56:15.888Z"
+        },
+        {
+            "spotter": "WZ1V",
+            "spotted": "WA3EOQ",
+            "frequency": 22120,
+            "message": "FM09>FN31",
+            "when": "2022-07-13T00:56:17.883Z"
+        },
+        {
+            "spotter": "KO4IDC",
+            "spotted": "VE3THR",
+            "frequency": 7228,
+            "message": "",
+            "when": "2022-07-13T00:57:08.923Z"
+        },
+        {
+            "spotter": "K4RW",
+            "spotted": "VA3FF",
+            "frequency": 50313.9,
+            "message": "",
+            "when": "2022-07-13T00:57:42.767Z"
+        },
+        {
+            "spotter": "WW1L",
+            "spotted": "EA8DBM",
+            "frequency": 50313,
+            "message": "pskr",
+            "when": "2022-07-13T00:58:54.566Z"
+        },
+        {
+            "spotter": "VE3EDY",
+            "spotted": "FG8OJ",
+            "frequency": 50313,
+            "message": "EN83UA<>FK96IG",
+            "when": "2022-07-13T01:00:09.642Z"
+        },
+        {
+            "spotter": "EA5UB",
+            "spotted": "W3WTD",
+            "frequency": 14080,
+            "message": "73 tks",
+            "when": "2022-07-13T01:05:35.194Z"
+        },
+        {
+            "spotter": "W3UCA",
+            "spotted": "YO2IS",
+            "frequency": 5359.5,
+            "message": "",
+            "when": "2022-07-13T01:05:36.278Z"
+        },
+        {
+            "spotter": "NY2A",
+            "spotted": "VE3THR",
+            "frequency": 7228,
+            "message": "",
+            "when": "2022-07-13T01:05:42.079Z"
+        },
+        {
+            "spotter": "NY2A",
+            "spotted": "VE3THR",
+            "frequency": 7228,
+            "message": "VE-5315",
+            "when": "2022-07-13T01:05:50.669Z"
+        },
+        {
+            "spotter": "EA5UB",
+            "spotted": "K1PTO",
+            "frequency": 14080,
+            "message": "73 tks",
+            "when": "2022-07-13T01:06:19.240Z"
+        },
+        {
+            "spotter": "K5TIA",
+            "spotted": "VE1YX",
+            "frequency": 5358.9,
+            "message": "",
+            "when": "2022-07-13T01:10:03.010Z"
+        },
+        {
+            "spotter": "EA5UB",
+            "spotted": "WB8YYY",
+            "frequency": 14080,
+            "message": "73 tks",
+            "when": "2022-07-13T01:10:05.025Z"
+        },
+        {
+            "spotter": "KI4TXP",
+            "spotted": "G0FVT",
+            "frequency": 7075.4,
+            "message": "",
+            "when": "2022-07-13T01:10:08.482Z"
+        },
+        {
+            "spotter": "LU4DRH",
+            "spotted": "W6ZD",
+            "frequency": 14075.8,
+            "message": "FT8 Send -14 Rcvd -07 TKS",
+            "when": "2022-07-13T01:10:58.395Z"
+        },
+        {
+            "spotter": "W4HLR",
+            "spotted": "N1NOL",
+            "frequency": 50125,
+            "message": "EM56JB<ES>FN31PI 5/9 and gone",
+            "when": "2022-07-13T01:11:08.342Z"
+        },
+        {
+            "spotter": "VP2MNI",
+            "spotted": "6Y5CB",
+            "frequency": 14266,
+            "message": "Loud",
+            "when": "2022-07-13T01:11:43.803Z"
+        },
+        {
+            "spotter": "W4HLR",
+            "spotted": "KG4BY",
+            "frequency": 50125,
+            "message": "/M      EM56JB<ES> grid???",
+            "when": "2022-07-13T01:12:29.392Z"
+        },
+        {
+            "spotter": "KP4DRB",
+            "spotted": "WP4QPP",
+            "frequency": 45990,
+            "message": "NA1ISS-R/Jose de Ciales,PR",
+            "when": "2022-07-13T01:12:49.103Z"
+        },
+        {
+            "spotter": "W4HLR",
+            "spotted": "NG2B",
+            "frequency": 50125,
+            "message": "EM56JB<ES>FN21SW swl",
+            "when": "2022-07-13T01:12:58.424Z"
+        },
+        {
+            "spotter": "KP4DRB",
+            "spotted": "WP4NQY",
+            "frequency": 45990,
+            "message": "NA1ISS-R/Jose de Levitown-PR",
+            "when": "2022-07-13T01:14:07.499Z"
+        },
+        {
+            "spotter": "KI4TXP",
+            "spotted": "HB9LBC",
+            "frequency": 7076,
+            "message": "",
+            "when": "2022-07-13T01:16:38.259Z"
+        },
+        {
+            "spotter": "EA5UB",
+            "spotted": "KK4AIZ",
+            "frequency": 14080,
+            "message": "73 tks",
+            "when": "2022-07-13T01:16:49.530Z"
+        },
+        {
+            "spotter": "VP2MNI",
+            "spotted": "6Y5CB",
+            "frequency": 14266,
+            "message": "cq cq Dakota / Montana",
+            "when": "2022-07-13T01:19:35.836Z"
+        },
+        {
+            "spotter": "VK2WP",
+            "spotted": "VK3BEZ",
+            "frequency": 7150,
+            "message": "WWFF VKFF-0758",
+            "when": "2022-07-13T01:23:32.103Z"
+        },
+        {
+            "spotter": "W3UCA",
+            "spotted": "OK1MLX",
+            "frequency": 3575.5,
+            "message": "",
+            "when": "2022-07-13T01:23:36.186Z"
+        },
+        {
+            "spotter": "CD4JWI",
+            "spotted": "PW8DF",
+            "frequency": 7074.5,
+            "message": "Gracias por el QSO, 73 cordial",
+            "when": "2022-07-13T01:24:07.972Z"
+        },
+        {
+            "spotter": "W4HLR",
+            "spotted": "KA0PQW",
+            "frequency": 50125,
+            "message": "EM56JB<ES>EN33IU swl in/out",
+            "when": "2022-07-13T01:24:17.330Z"
+        },
+        {
+            "spotter": "LZ2BE",
+            "spotted": "5X3R",
+            "frequency": 5357,
+            "message": "",
+            "when": "2022-07-13T01:24:21.424Z"
+        },
+        {
+            "spotter": "PY2XU",
+            "spotted": "F6EXV",
+            "frequency": 10118,
+            "message": "tks 73 val tu",
+            "when": "2022-07-13T01:24:29.394Z"
+        },
+        {
+            "spotter": "VA3EBM",
+            "spotted": "KR0P",
+            "frequency": 50313.4,
+            "message": "FN03EK<>EN10 FT8",
+            "when": "2022-07-13T01:25:45.973Z"
+        },
+        {
+            "spotter": "CD4JWI",
+            "spotted": "CO2NX",
+            "frequency": 7074.5,
+            "message": "Gracias por el QSO, 73 cordial",
+            "when": "2022-07-13T01:25:49.629Z"
+        }
+    ]
+}

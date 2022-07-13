@@ -1,0 +1,15 @@
+{
+  "name": "dx-telnet",
+  "version": "1.0.0",
+  "description": "connect to dx cluster and save data to xml file",
+  "main": "dx.js",
+  "dependencies": {
+    "dxcluster": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chokeumnuay khowsakool (E29AHU)",
+  "license": "ISC"
+}
